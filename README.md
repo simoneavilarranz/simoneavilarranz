@@ -1,7 +1,12 @@
-## Hi! 👋
-- My name is Simone 😁
+## About me
+- My name is Simone 👋
 - I'm a Graphic Designer and Illustrator ✏️
 - I'm currently studying at Factoria F5 💻
+
+## Contact
+
+- Linkedin: https://www.linkedin.com/in/avilarranz/
+- Instagram: @avilarranz
 
 <!--
 **simoneavilarranz/simoneavilarranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
