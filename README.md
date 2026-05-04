@@ -3,6 +3,10 @@
 - I'm a Graphic Designer and Illustrator ✏️
 - I'm currently studying at Factoria F5 💻
 
+## My skills
+- HTML
+- CSS
+
 ## Contact
 
 - Linkedin: https://www.linkedin.com/in/avilarranz/
