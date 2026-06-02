@@ -2,10 +2,12 @@
 - My name is Simone 👋
 - I'm a Graphic Designer and Illustrator ✏️
 - I'm currently studying at Factoria F5 💻
+- Learning Fullstack coding
 
 ## My skills
 - HTML
 - CSS
+- Javascript
 
 ## Contact
 
