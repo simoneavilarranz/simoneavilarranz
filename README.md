@@ -8,6 +8,18 @@
 
 <p align="center">
   <img src="Bootstrap.svg">
+    <img src="TailwindCSS-Dark.svg">
+  <img src="CSS.svg">
+  <img src="HTML.svg">
+  <img src="Illustrator.svg">
+  <img src="Photoshop.svg">
+  <img src="Java-Dark.svg">
+  <img src="JavaScript.svg">
+  <img src="MySQL-Dark.svg">
+  <img src="Pinia-Dark.svg">
+  <img src="Vitest-Dark.svg">
+  <img src="VueJS-Dark.svg">
+  <img src="VisualStudio-Dark.svg">
 </p>
 
 
