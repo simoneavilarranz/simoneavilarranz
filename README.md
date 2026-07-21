@@ -6,8 +6,9 @@
 
 ## My skills
 
-<p align="center">
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+<p align="center">
   <img src="Bootstrap.svg">
     <img src="TailwindCSS-Dark.svg">
   <img src="CSS.svg">
