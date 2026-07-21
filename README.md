@@ -6,7 +6,7 @@
 
 ## My skills
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,illustrator,photoshop,java,js,mysql,pinia,vitest,vuejs)](https://skillicons.dev)
 
 <p align="center">
   <img src="Bootstrap.svg">
