@@ -9,8 +9,7 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,illustrator,photoshop,java,js,mysql,pinia,vitest,vuejs)](https://skillicons.dev)
 
 ## Contact
-
-<a href="avilarranz@gmail.com">https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white</a>
+- avilarranz@gmail.com
 - Instagram: @avilarranz
 
 <!--
